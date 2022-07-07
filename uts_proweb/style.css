@@ -1,0 +1,23 @@
+h2 {
+    font-weight: lighter;
+    letter-spacing: 0.3px;
+    font-size: 4rem;
+    color: #222;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+}
+thead {
+    background-color: rgb(19, 110, 170);
+    color: white;
+} 
+        
