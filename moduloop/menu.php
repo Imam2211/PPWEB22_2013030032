@@ -1,0 +1,1 @@
+<a href="index.php"><button type="button" class="btn btn-success">View</button></a> | <a href="mhs_add.php"><button type="button" class="btn btn-secondary">Add</button></a>
